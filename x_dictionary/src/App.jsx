@@ -36,6 +36,7 @@ function App() {
         />
         <button onClick={handleSearch}>Search</button>
       </div>
+      <h3>Definition:</h3>
       <div className="search-result">
         {searchResult && <p>{searchResult}</p>}
       </div>
