@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>XDictionary</h1>
+      <h1>Dictionary App</h1>
       <div className="search-container">
         <input
           type="text"
